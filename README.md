@@ -33,7 +33,7 @@
 ### 1. Clone the repository
 
 
-git clone https://github.com/your-username/HellFit.git
+git clone https://github.com/nikhilmehlan/Hellfit.git
 cd HellFit
 
 
@@ -43,7 +43,7 @@ cd HellFit
 cd server
 npm install
 touch .env
-# Add your environment variables (PORT, MONGO_URI, JWT_SECRET)
+Add your environment variables (PORT, MONGO_URI, JWT_SECRET)
 npm start
 
 
