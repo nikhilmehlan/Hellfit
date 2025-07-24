@@ -7,7 +7,7 @@
 ## 🌟 Features
 
 - 📋 **Exercise Library**  
-  Detailed descriptions and video demonstrations for a variety of exercises to improve form and consistency.
+  Detailed descriptions  and video demonstrations for a variety of exercises to improve form and consistency.
 
 - 📆 **Personalized Workout Planner **  
   Users can create and manage custom workout schedules by assigning exercises to specific days of the week.
