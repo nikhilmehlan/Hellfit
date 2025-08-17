@@ -22,7 +22,7 @@
 
 | Frontend      | Backend     | Database   | Others          |
 |---------------|-------------|------------|-----------------|
-| ReactJS       | ExpressJS   | MongoDB    | Node.js, JWT    |
+| ReactJS       | Express JS   | MongoDB    | Node.js, JWT    |
 | Tailwind CSS  | REST APIs   | Mongoose   | dotenv, bcrypt  |
 
 
