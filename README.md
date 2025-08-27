@@ -13,7 +13,7 @@
   Users can create and manage custom workout schedules by assigning exercises to specific days of the week.
 
 - 🔐 **Secure User Authentication**  
-  Managed secure login sessions with robust error handling — led to a 20% decrease in login issues.
+  Managed secure logins sessions with robust error handling — led to a 20% decrease in login issues.
 
 - 🎯 **User-Centric Design**  
   A sleek and engaging interface that boosted user engagement and supported a growing community of 10+ fitness enthusiasts.
