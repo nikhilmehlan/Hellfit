@@ -15,7 +15,7 @@
 - 🔐 **Secure User Authentication**  
   Managed secure logins sessions with robust error handling — led to a 20% decrease in login issues.
 
-- 🎯 **User-Centric Design**  
+- 🎯 **User-Centric Design **  
   A sleek and engaging interface that boosted user engagement and supported a growing community of 10+ fitness enthusiasts.
 
 ## 🚀 Tech Stack
