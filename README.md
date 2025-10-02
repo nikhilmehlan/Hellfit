@@ -12,7 +12,7 @@
 - 📆 **Personalized Workout Planner **  
   Users can create and manage custom workout schedules by assigning exercises to specific days of the week.
 
-- 🔐 **Secure User Authentication**  
+- 🔐 **Secure User Authentication **  
   Managed secure logins sessions with robust error handling — led to a 20% decrease in login issues.
 
 - 🎯 **User-Centric Design **  
